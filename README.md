@@ -246,7 +246,7 @@ retail-ab-test-analysis/
 │   └── excel_calculator.png
 │
 └── data/
-    └── retail_dataset.xlsx
+    └── retail_ab_test_data.xlsx
 ```
 
 ---
